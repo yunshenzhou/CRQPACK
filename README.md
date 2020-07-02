@@ -4,9 +4,9 @@ CRQ Matlab code
 Purpose:
 
 Solve the following constrained optimization problem
-min x'Ax
-st  x'x=1
-    C'x=b
+- min x'Ax
+- st  x'x=1
+-     C'x=b
 
 by various methods:
 
