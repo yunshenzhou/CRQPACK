@@ -9,9 +9,10 @@ st  x'x=1
     C'x=b
 
 by various methods:
-(1) Lanczos method
-(2) Projected power method [1]
-(3) Explicit method [2]
+
+- Lanczos method [1]
+- Projected power method [2]
+- Explicit method [3]
 
 
 Folders:
@@ -95,8 +96,8 @@ mex spmtimesd.cpp
 
 References:
 ----------
-
-   [1] Xu, Linli, Wenye Li, and Dale Schuurmans. "Fast normalized cut with linear constraints." Computer Vision and Pattern Recognition, 2009. CVPR 2009. IEEE Conference on. IEEE, 2009.
-    [2] Gander, Walter, Gene H. Golub, and Urs von Matt. "A constrained eigenvalue problem." Linear Algebra and its applications 114 (1989): 815-839.
-    [3] Shi, Jianbo, and Jitendra Malik. "Normalized cuts and image segmentation." Departmental Papers (CIS) (2000): 107.
+   [1] Zhou, Yunshen, Zhaojun Bai, and Ren-Cang Li. "Linear Constrained Rayleigh Quotient Optimization: Theory and Algorithms." arXiv preprint arXiv:1911.02770 (2019).
+   [2] Xu, Linli, Wenye Li, and Dale Schuurmans. "Fast normalized cut with linear constraints." Computer Vision and Pattern Recognition, 2009. CVPR 2009. IEEE Conference on. IEEE, 2009.
+   [3] Gander, Walter, Gene H. Golub, and Urs von Matt. "A constrained eigenvalue problem." Linear Algebra and its applications 114 (1989): 815-839.
+   [4] Shi, Jianbo, and Jitendra Malik. "Normalized cuts and image segmentation." Departmental Papers (CIS) (2000): 107.
  
